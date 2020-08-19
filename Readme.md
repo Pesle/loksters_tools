@@ -5,8 +5,9 @@ This is a inkscape plugin, generating Gcode files from Vector Paths in [Inkscape
 Deadolus changed the behaviour so that the calibration up front is optional.  
 Deadolus also changed a scaling factor, because the old one seemed to produce too small results for him.
 
-I have added the ability to invert the power levels, as with my laser on my 3D printer, I have to use an Optocoupler, inverting the signal.  
-
+I have added the ability to invert the power levels, 
+My TTL controlled laser requires 5V from my 3D printers 12V, so I am using an Optocoupler, which inverts the power signal.
+[Ryan Griggs came up with this Solution](https://electronics.stackexchange.com/questions/321987/convert-12vdc-fan-controller-output-to-ttl-signal-of-laser#answer-322104)
 
 Head over to [Lokster's Webpage](http://lokspace.eu/anet-a8-3d-printer-laser-engraver-mod/) for a tutorial on how to use the Inkscape plugin.
 
