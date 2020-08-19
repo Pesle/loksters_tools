@@ -1,7 +1,7 @@
 Lokster's Tools for Engraving through Inkscape
 ============
 This is a inkscape plugin, generating Gcode files from Vector Paths in [Inkscape](https://inkscape.org/en/).  
-**The code originally came from [Lokster](http://lokspace.eu/anet-a8-3d-printer-laser-engraver-mod/) modified by Deadolus, and now me (Pesle)**  
+**The code originally came from [Lokster](http://lokspace.eu/anet-a8-3d-printer-laser-engraver-mod/) modified by [Deadolus](https://github.com/Deadolus/loksters_tools), and now me (Pesle)**  
 Deadolus changed the behaviour so that the calibration up front is optional.  
 Deadolus also changed a scaling factor, because the old one seemed to produce too small results for him.
 
